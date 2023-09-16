@@ -1,0 +1,6 @@
+BIANARY SEARCH TREES AND LINKEDLISTS
+BST's:
+A Bianary Search Tree is a data structure that is usded to hold information in an organized manor. BST's are considered efficent due to their orgnizational      structure, which makes actions like adding, searching, and reording the nodes or items in the tree quicker. 
+A BST is made up of sections or items called nodes, each BST has what is called a Root Node which is essentially the main or head node of the tree. From the root node branches two child nodes called the left and right nodes, these child nodes are what are used to navigate the tree by a using dot notation (.right/.left). All nodes on the withing thew left child node will be less than or equal to its parent node, and the right child node will have a value greater than it's parent. This quality makes navigating the BST very efficent, and gives Bianary Search Trees the organization and efficency previously mentioned.
+
+LINKED LISTS:
